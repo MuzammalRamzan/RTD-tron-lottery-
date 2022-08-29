@@ -1,0 +1,302 @@
+/* .App {
+  background-image: #48147b ;
+  background-color: #48147b;
+  min-height: 100vh;
+} */
+.App {
+  background-image: #000 ;
+  background-color: #000;
+  min-height: 100vh;
+} 
+p{
+  margin: auto 25px  !important;
+}
+.title{
+    width: 100%;
+    color: #fff;
+    letter-spacing: 0;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    text-transform: uppercase;
+}
+p{
+  color: #fff;
+}
+
+.body {
+  color: #c7b8ff;
+  position: relative;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  font-weight: 500;
+}
+table{
+  padding: 30px;
+}
+ tr, td, TableCell {
+  border: 1px solid #fff;
+  padding:10px;
+  color: #c7b8ff;
+  position: relative;
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  font-weight: 500;
+}
+ th {
+  border: 1px solid #fff;
+  padding:10px;
+  color: #fff;
+  position: relative;
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  font-weight: 500;
+}
+.center {
+  text-align: center;
+}
+.rafflecenter{
+  border: 1px solid #fff;
+  width: auto;
+  padding: 10px;
+  color: #fff;
+  font-size: 1.2rem;
+  margin: 0rem;
+  font-weight: 500;
+  display: flex;
+  justify-content: center;
+}
+.btn{
+  background: linear-gradient(
+    -30deg
+    ,#9023e0 50%,#7917c0 0);
+        padding: 20px 40px;
+        margin: 12px;
+        display: inline-block;
+        -webkit-transform: translate(0);
+        transform: translate(0);
+        overflow: hidden;
+        color: #f7d4d4;
+        font-size: 20px;
+        letter-spacing: 2.5px;
+        text-align: center;
+        text-transform: uppercase;
+        text-decoration: none;
+        -webkit-box-shadow: 0 20px 50px rgb(0 0 0 / 50%);
+        box-shadow: 0 20px 50px rgb(0 0 0 / 50%);
+}
+
+
+.animated-button1 span {
+  position: absolute;
+}
+
+.animated-button1 {
+  background: linear-gradient(
+-30deg
+,red 50%,red 0);
+  padding: 20px 40px;
+  margin:30px 20px;
+
+  display: inline-block;
+  -webkit-transform: translate(0);
+  transform: translate(0);
+  overflow: hidden;
+  color: #fff;
+  font-weight: 600;
+  font-size: 30px;
+  letter-spacing: 2.5px;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  -webkit-box-shadow: 0 20px 50px rgb(0 0 0 / 50%);
+  box-shadow: 0 20px 50px rgb(0 0 0 / 50%);
+}
+
+.copy { 
+   background-size:100% 100%; 
+   padding:10px 10px; 
+   text-decoration:none; 
+   display:inline-block;
+    color:#fff;
+    cursor: pointer;
+  }
+.btnreferal{
+  background-color: red;
+  border: transparent;
+  padding: 10px 20px;
+  margin:15px 10px;
+  color: white;
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+  @media screen and (max-width: 760px) {
+    .App {
+      background-image: #000;
+      background-color: #000;
+      min-height: 100vh;
+    } 
+    p{
+      margin: auto 20px  !important;
+    }
+    .title{
+        width: 100%;
+        color: #fff;
+        letter-spacing: 0;
+        text-align: center;
+        margin: 0 auto;
+        display: block;
+        text-transform: uppercase;
+    }
+    p{
+      color: #fff;
+    }
+    
+    .body {
+      color: #c7b8ff;
+      position: relative;
+      font-size: 1.5rem;
+      margin-bottom: 1rem;
+      font-weight: 500;
+    }
+    table{
+      padding: 10px;
+    }
+     tr, td {
+      border: 1px solid #fff;
+      padding:8px;
+      color: #c7b8ff;
+      position: relative;
+      font-size: 1rem;
+      margin-bottom: 1rem;
+      font-weight: 500;
+    }
+     th {
+      border: 1px solid #fff;
+      padding:8px;
+      color: #fff;
+      position: relative;
+      font-size: 1rem;
+      margin-bottom: 1rem;
+      font-weight: 500;
+    }
+    .center {
+      text-align: center;
+    }
+    .rafflecenter{
+      border: 1px solid #fff;
+      width: auto;
+      padding: 8px;
+      color: #fff;
+      font-size: 1rem;
+      margin: 0rem;
+      font-weight: 500;
+      display: flex;
+      justify-content: center;
+    }
+    .btn{
+      background: linear-gradient(
+        -30deg
+        ,#9023e0 50%,#7917c0 0);
+            padding: 20px 40px;
+            margin: 12px;
+            display: inline-block;
+            -webkit-transform: translate(0);
+            transform: translate(0);
+            overflow: hidden;
+            color: #f7d4d4;
+            font-size: 20px;
+            letter-spacing: 2.5px;
+            text-align: center;
+            text-transform: uppercase;
+            text-decoration: none;
+            -webkit-box-shadow: 0 20px 50px rgb(0 0 0 / 50%);
+            box-shadow: 0 20px 50px rgb(0 0 0 / 50%);
+    }
+    
+    
+    .animated-button1 span {
+      position: absolute;
+    }
+    
+    .animated-button1 {
+      background: linear-gradient(
+     -30deg
+     ,red 50%,red 0);
+      padding: 15px 15px;
+      margin:20px 8px;
+    
+      display: inline-block;
+      -webkit-transform: translate(0);
+      transform: translate(0);
+      overflow: hidden;
+      color: #fff;
+      font-weight: 500;
+      font-size: 25px;
+      letter-spacing: 2.5px;
+      text-align: center;
+      text-transform: uppercase;
+      text-decoration: none;
+      -webkit-box-shadow: 0 20px 50px rgb(0 0 0 / 50%);
+      box-shadow: 0 20px 50px rgb(0 0 0 / 50%);
+    }
+    .copy { 
+      background:url(./images/copy.png);
+       background-size:100% 100%; 
+       padding:10px 10px; 
+       text-decoration:none; 
+       display:inline-block;
+        color:#fff;
+        cursor: pointer;
+      }
+  }
+
+/* 
+.animated-button1 span:first-child {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: -webkit-gradient(linear,right top,left top,from(rgba(43,8,8,0)),to(#f90));
+  background: linear-gradient(
+270deg
+,rgba(43,8,8,0),#f90);
+  -webkit-animation: animateTop 2s linear infinite;
+  animation: animateTop 2s linear infinite;
+}
+.animated-button1 span:nth-child(2) {
+  top: 0;
+  right: 0;
+  height: 100%;
+  width: 2px;
+  background: -webkit-gradient(linear,left bottom,left top,from(rgba(43,8,8,0)),to(#f90));
+  background: linear-gradient(
+0deg
+,rgba(43,8,8,0),#f90);
+  -webkit-animation: animateRight 2s linear -1s infinite;
+  animation: animateRight 2s linear -1s infinite;
+}
+.animated-button1 span:nth-child(3) {
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: -webkit-gradient(linear,left top,right top,from(rgba(43,8,8,0)),to(#f90));
+  background: linear-gradient(
+90deg
+,rgba(43,8,8,0),#f90);
+  -webkit-animation: animateBottom 2s linear infinite;
+  animation: animateBottom 2s linear infinite;
+}
+
+element.style {
+}
+.animated-button1 span:nth-child(4) {
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 2px;
+imateLeft 2s linear -1s infinite;
+    animation: animateLeft 2s linear -1s infinite;
+} */

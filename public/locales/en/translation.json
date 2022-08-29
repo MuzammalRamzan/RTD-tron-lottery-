@@ -1,0 +1,88 @@
+{
+    "Home":{
+        "1":"Home"
+    },
+    "explore":{
+        "1":"Explore"
+    },
+    "youraddress":{
+        "1":"Your ADdress"  
+    },
+    "Balance":{
+        "1":"Balance"
+    },
+    "text":{
+        "1":"RDTronlottery is a decenterlized community raffle smart contract, its design is intented to change the financial lives of two praticipants each time the raffle is run and with a low cost of 10 TRX!"
+    },
+    "JOIN":{
+        "1":"JOIN"
+    },
+    "smart":{
+        "1":"Smart contract information"
+    },
+    "contect":{
+        "1":"Smart contract address"
+    },
+    "daat":{
+        "1":"Pool Prize Balance"
+    },
+    "sold":{
+        "1":"Sold Tickets"
+    },
+    "tiket":{
+        "1":"Available Tickets"
+    },
+    "info":{
+        "1":"User information"
+    },
+    "address":{
+        "1":"Your address"
+    },
+    "balence":{
+        "1":"Your Balance"
+    },
+    "Bought":{
+        "1":"Bought Tickets"
+    },
+    "Refferals":{
+        "1":"My Refferals"
+    },
+    "Link":{
+        "1":"Your Refferal Link"
+    },
+    "copy":{
+        "1":"Copy Link"
+    },
+    "Raffle":{
+        "1":"Raffle Winner History"
+    },
+    "Winners":{
+        "1":"Winners"
+    },
+    "add":{
+        "1":"Address"
+    },
+    "Prize":{
+        "1":"Prize Amount"
+    },
+    "Date":{
+        "1":"Date"
+    },
+    
+    "does":{
+        "1":"RDTronlottery does not constitute an investment platform, so each participant recognizes that it is a raffle executed randomly by the smart contract with each participant interacts, thus always selecting two winners."
+    },
+    "cop":{
+        "1":"©RDTronLottery 2021"
+    },
+    "buytickets":{
+        "1":"Buy Tickets"
+    }
+    ,
+    "join":{
+        "1":"Join"
+    }
+
+
+
+}

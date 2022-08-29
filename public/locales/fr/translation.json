@@ -1,0 +1,84 @@
+{
+    "Home":{
+        "1":"Domicile"
+    },
+    "youraddress":{
+        "1":"Votre adresse"  
+    },
+    "Balance":{
+        "1":"Équilibre"
+    },
+    "text":{
+        "1":"La loterie RDTron est un contrat intelligent de tombola communautaire décentralisée, sa conception est destinée à changer la vie financière de deux participants à chaque fois que la tombola est organisée et avec un faible coût de 10 TRX !"
+    },
+    "JOIN":{
+        "1":"REJOINDRE"
+    },
+    "smart":{
+        "1":"Informations sur les contrats intelligents"
+    },
+    "contect":{
+        "1":"Adresse du contrat intelligent"
+    },
+    "daat":{
+        "1":"Solde du prix du pool"
+    },
+    "sold":{
+        "1":"Billets vendus"
+    },
+    "tiket":{
+        "1":"Billets disponibles"
+    },
+    "info":{
+        "1":"Informations de l'utilisateur"
+    },
+    "address":{
+        "1":"Votre adresse"
+    },
+    "balence":{
+        "1":"Votre solde"
+    },
+    "Bought":{
+        "1":"Billets achetés"
+    },
+    "Refferals":{
+        "1":"mes recommandations"
+    },
+    "Link":{
+        "1":"Votre lien de parrainage"
+    },
+    "copy":{
+        "1":"Copier le lien"
+    },
+    "Raffle":{
+        "1":"Historique des gagnants de la tombola"
+    },
+    "Winners":{
+        "1":"Gagnantes"
+    },
+    "add":{
+        "1":"Adresse"
+    },
+    "Prize":{
+        "1":"Montant du prix"
+    },
+    "Date":{
+        "1":"Date"
+    },
+    
+    "does":{
+        "1":"La loterie RDTron ne constitue pas une plate-forme d'investissement, donc chaque participant reconnaît qu'il s'agit d'un tirage au sort exécuté au hasard par le contrat intelligent avec lequel chaque participant interagit, sélectionnant ainsi toujours deux gagnants."
+    },
+    "cop":{
+        "1":"©RDTronLottery 2021"
+    },
+    "buytickets":{
+        "1":"Acheter des billets        "
+    }
+    ,
+    "join":{
+        "1":"Rejoindre"
+    }
+
+
+}

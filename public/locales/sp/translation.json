@@ -1,0 +1,84 @@
+{
+    "Home":{
+        "1":"Casa"
+    },
+    "youraddress":{
+        "1":"Su dirección"
+    },
+    "Balance":{
+        "1":"Equilibrio"
+    },
+    "text":{
+        "1":"RDTronlottery es un contrato inteligente de rifa comunitaria descentralizada, su diseño tiene la intención de cambiar la vida financiera de dos participantes cada vez que se realiza la rifa y ¡con un bajo costo de 10 TRX!"
+    },
+    "JOIN":{
+        "1":"ENTRAR"
+    },
+    "smart":{
+        "1":"Información de contrato inteligente"
+    },
+    "contect":{
+        "1":"Dirección de contrato inteligente"
+    },
+    "daat":{
+        "1":"Saldo del premio acumulado"
+    },
+    "sold":{
+        "1":"Entradas vendidas"
+    },
+    "tiket":{
+        "1":"Entradas Disponibles"
+    },
+    "info":{
+        "1":"Informacion del usuario"
+    },
+    "address":{
+        "1":"Su dirección"
+    },
+    "balence":{
+        "1":"Tu balance"
+    },
+    "Bought":{
+        "1":"Entradas compradas"
+    },
+    "Refferals":{
+        "1":"Mis referencias"
+    },
+    "Link":{
+        "1":"Tu enlace de referencia"
+    },
+    "copy":{
+        "1":"Copiar link"
+    },
+    "Raffle":{
+        "1":"Historia de los ganadores de la rifa"
+    },
+    "Winners":{
+        "1":"Ganadoras"
+    },
+    "add":{
+        "1":"Habla a"
+    },
+    "Prize":{
+        "1":"Monto del premio"
+    },
+    "Date":{
+        "1":"Fecha"
+    },
+    
+    "does":{
+        "1":"RDTronlottery no constituye una plataforma de inversión, por lo que cada participante reconoce que se trata de un sorteo ejecutado aleatoriamente por el contrato inteligente con cada participante interactúa, seleccionando así siempre dos ganadores."
+    },
+    "cop":{
+        "1":"© RDTronLottery 2021"
+    }
+    ,
+    "buytickets":{
+        "1":"Comprar boletos        "
+    }
+    ,
+    "join":{
+        "1":"Entrar        "
+    }
+
+}
